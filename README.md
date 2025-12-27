@@ -18,4 +18,5 @@ Features: Calculates averages and assigns letter grades based on input scores.
  🏃 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/adisudereje3-gif/python-games.git](https://github.com/adisudereje3-gif/python-games.git)
+git clone https://github.com/adisudereje3-gif/python-games.git
+
